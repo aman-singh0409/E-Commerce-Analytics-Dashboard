@@ -123,9 +123,15 @@ This project demonstrates end-to-end data analytics and business intelligence wo
 ---
 
 # Dashboard Screenshots
-(Add your dashboard screenshots here)
 
-- Executive Dashboard
-- Customer Intelligence Dashboard
-- Churn Analysis Dashboard
-- Product Analytics Dashboard
+## Executive Dashboard
+![Executive Dashboard](images/executive_dashboard.png)
+
+## Customer Intelligence Dashboard
+![Customer Intelligence](images/customer_intelligence.png)
+
+## Churn Analysis Dashboard
+![Churn Analysis](images/churn_analysis.png)
+
+## Product Analytics Dashboard
+![Product Analytics](images/product_analytics.png)
